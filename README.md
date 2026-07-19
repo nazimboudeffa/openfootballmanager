@@ -19,3 +19,5 @@ Good luck every one and don't hesitate to add you own game in the list
 You can check the analytics here https://plausible.codewithadu.de/openfootballmanager.com
 
 PS : We also have taken open opensoccermanager.com to be sure that we stay on the right idea
+
+JUST THINK THAT THIS SITE IS FOR EVERYONE

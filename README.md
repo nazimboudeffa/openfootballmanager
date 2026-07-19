@@ -1,0 +1,15 @@
+# Open Football MAnager
+
+As with AI it's more and more easy to code games like Football Manager
+
+I had the opportunity to aquire the domain name
+
+For example if you look at FreeFootballManager.com you'll see a big price
+
+So, to let everyone who want to créate an similar game, I think it's better to have a list of them all
+
+This way we stay respectuful to the franchise legally speaking
+
+As you may know that Football Manager is also a trademark of Sega
+
+Good luck every one and don't hesitate to add you own game in the list

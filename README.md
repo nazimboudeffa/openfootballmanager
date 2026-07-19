@@ -1,4 +1,4 @@
-# Open Football MAnager
+# Open Football Manager
 
 As with AI it's more and more easy to code games like Football Manager
 

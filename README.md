@@ -20,4 +20,4 @@ You can check the analytics here https://plausible.codewithadu.de/openfootballma
 
 PS : We also have taken open opensoccermanager.com to be sure that we stay on the right idea
 
-JUST THINK THAT THIS SITE IS FOR EVERYONE
+JUST THINK THAT THIS SITE IS FOR EVERYONE and respectful to the law
